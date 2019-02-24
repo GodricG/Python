@@ -1,1 +1,1 @@
-dfdsad
+print（‘hello’)
